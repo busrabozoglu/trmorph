@@ -1,0 +1,2 @@
+# trmorph
+çalıştırmaya çalışma
